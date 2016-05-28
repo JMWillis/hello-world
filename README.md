@@ -1,2 +1,4 @@
 # hello-world
-A place to start
+
+Hello,
+I am here to learn.
